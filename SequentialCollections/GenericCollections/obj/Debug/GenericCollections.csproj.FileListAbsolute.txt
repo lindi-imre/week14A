@@ -1,0 +1,5 @@
+D:\windowsform\SequentialCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+D:\windowsform\SequentialCollections\GenericCollections\bin\Debug\GenericCollections.exe
+D:\windowsform\SequentialCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+D:\windowsform\SequentialCollections\GenericCollections\obj\Debug\GenericCollections.exe
+D:\windowsform\SequentialCollections\GenericCollections\obj\Debug\GenericCollections.pdb

@@ -1,0 +1,5 @@
+D:\windowsform\SequentialCollections\LookupCollections\bin\Debug\LookupCollections.exe.config
+D:\windowsform\SequentialCollections\LookupCollections\bin\Debug\LookupCollections.exe
+D:\windowsform\SequentialCollections\LookupCollections\bin\Debug\LookupCollections.pdb
+D:\windowsform\SequentialCollections\LookupCollections\obj\Debug\LookupCollections.exe
+D:\windowsform\SequentialCollections\LookupCollections\obj\Debug\LookupCollections.pdb

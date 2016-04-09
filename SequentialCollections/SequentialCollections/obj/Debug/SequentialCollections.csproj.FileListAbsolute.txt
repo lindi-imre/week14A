@@ -1,0 +1,6 @@
+D:\windowsform\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe.config
+D:\windowsform\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe
+D:\windowsform\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.pdb
+D:\windowsform\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.csprojResolveAssemblyReference.cache
+D:\windowsform\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.exe
+D:\windowsform\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.pdb

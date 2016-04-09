@@ -1,0 +1,5 @@
+D:\windowsform\SequentialCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe.config
+D:\windowsform\SequentialCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+D:\windowsform\SequentialCollections\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+D:\windowsform\SequentialCollections\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+D:\windowsform\SequentialCollections\DictionaryCollections\obj\Debug\DictionaryCollections.pdb

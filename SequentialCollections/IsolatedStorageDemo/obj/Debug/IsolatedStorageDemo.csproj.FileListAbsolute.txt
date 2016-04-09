@@ -1,0 +1,6 @@
+D:\windowsform\SequentialCollections\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe.config
+D:\windowsform\SequentialCollections\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe
+D:\windowsform\SequentialCollections\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.pdb
+D:\windowsform\SequentialCollections\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.csprojResolveAssemblyReference.cache
+D:\windowsform\SequentialCollections\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.exe
+D:\windowsform\SequentialCollections\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.pdb

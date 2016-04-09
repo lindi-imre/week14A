@@ -1,0 +1,6 @@
+D:\windowsform\SequentialCollections\SeekAndArchive\bin\Debug\SeekAndArchive.exe.config
+D:\windowsform\SequentialCollections\SeekAndArchive\bin\Debug\SeekAndArchive.exe
+D:\windowsform\SequentialCollections\SeekAndArchive\bin\Debug\SeekAndArchive.pdb
+D:\windowsform\SequentialCollections\SeekAndArchive\obj\Debug\SeekAndArchive.csprojResolveAssemblyReference.cache
+D:\windowsform\SequentialCollections\SeekAndArchive\obj\Debug\SeekAndArchive.exe
+D:\windowsform\SequentialCollections\SeekAndArchive\obj\Debug\SeekAndArchive.pdb
